@@ -161,40 +161,6 @@ and full-stack development while moving toward AI-driven web engineering.
 <img width="100%" height="2" src="https://capsule-render.vercel.app/api?type=rect&color=0:0891b2,50:16a34a,100:7c3aed&height=4" alt="Section divider">
 <div align= "center">
 
-## 📌 Featured Projects
-
-### ⚡ FitLog — Workout Library & Day Planner
-
-A modern workout planning application built with Next.js and TypeScript.
-
-**Tech:** Next.js • React • TypeScript • Tailwind CSS • DaisyUI • Context API
-
-🔗 [Live Demo](https://fitlog-seven-beta.vercel.app/)  
-📂 [GitHub Repository](https://github.com/khaledaruna/Fitlog)
-
-<img width="100%" height="3" src="https://capsule-render.vercel.app/api?type=rect&color=0:0891b2,50:16a34a,100:7c3aed&height=4" alt="Section divider">
-
-### 🧩 Dev Stack — Technology Management App
-
-An interactive React application for managing and organizing technology skills.
-
-**Tech:** React • TypeScript • Tailwind CSS • DaisyUI • Vite • React Toastify
-
-🔗 [Live Demo](https://dev-stack-five-wheat.vercel.app/)  
-📂 [GitHub Repository](https://github.com/khaledaruna/Dev_Stack)
-
-<img width="100%" height="3" src="https://capsule-render.vercel.app/api?type=rect&color=0:0891b2,50:16a34a,100:7c3aed&height=4" alt="Section divider">
-
-### 🎬 Movie Explorer
-
-A responsive movie and TV show discovery application using the TVMaze API.
-
-**Tech:** React • JavaScript • Vite • Tailwind CSS • DaisyUI • React Router • REST API
-
-🔗 [Live Demo](https://movie-explorer-lemon-eight.vercel.app/)  
-📂 [GitHub Repository](https://github.com/khaledaruna/Movie_Explorer)
-
-<img width="100%" height="2" src="https://capsule-render.vercel.app/api?type=rect&color=0:0891b2,50:16a34a,100:7c3aed&height=4" alt="Section divider">
 
 ## 🔥 GitHub Streak
 
